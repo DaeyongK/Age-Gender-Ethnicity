@@ -1,2 +1,5 @@
-# saaad
-Repository for Data Science @ GT Project
+# Age, Gender, Ethnicity Extraction from Facial Images
+
+Silas Ropp
+Andrew DiBiasio
+Daeyong Kwon
